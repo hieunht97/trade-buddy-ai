@@ -10,14 +10,11 @@
 
 Trade Buddy AI is a stock and cryptocurrency trading app designed to leverage AI capabilities for analyzing market conditions. The app is built using React Native and integrates with both the OpenAI API and Alpaca API. It offers a streamlined and efficient order-placing feature and includes an AI Buddy functionality.
 
-![home screen](assets/screenshots/home-screen.png)
-![news](assets/screenshots/news.png)
+[![demo](assets/screenshots/Screenshot-trade-buddy-ai.png)](https://imgur.com/OHlktH3)
 
 ## Features
 
   **Order Placement**: Trade Buddy AI provides a fast and user-friendly interface for placing orders in the stock and cryptocurrency markets.
-
-  ![place order screen](assets/screenshots/place-order-screen.png)
 
   **AI Buddy Analysis**: The AI Buddy feature utilizes AI to analyze market conditions. It gathers data from news sources and technical analysis (TA) provided by renowned traders on Twitter (now X).
 
